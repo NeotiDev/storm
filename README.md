@@ -6,14 +6,16 @@ For visual effects like [SnowRain.js](https://github.com/NeotiDev/storm/blob/mas
 Just like this.
 Paste this code in between <head> and </head> tag of your website:
 
-```<!-- Effects by NeotiDev : https://github.com/NeotiDev -->
+```
+<!-- Effects by NeotiDev : https://github.com/NeotiDev -->
 <script type="text/javascript" src="https://storm.neotidev.cf/<filename>"></script>
 <!-- Effects by NeotiDev : https://github.com/NeotiDev -->
 ```
 For snowrain.js, you can use this.
 
 
-```<!-- Effects by NeotiDev : https://github.com/NeotiDev -->
+```
+<!-- Effects by NeotiDev : https://github.com/NeotiDev -->
 <script type="text/javascript" src="https://storm.neotidev.cf/snowrain.js"></script>
 <!-- Effects by NeotiDev : https://github.com/NeotiDev -->
 ```
