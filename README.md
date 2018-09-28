@@ -21,4 +21,4 @@ For snowrain.js, you can use this.
 ```
 
 ## Demo links :
-snowrain.js : **not ready yet**
+snowrain.js : [https://demo.neotidev.cf/storm/snowrainjs.html](https://demo.neotidev.cf/storm/snowrainjs.html)
