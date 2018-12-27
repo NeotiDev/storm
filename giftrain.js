@@ -82,4 +82,5 @@ if (ie4up||ns6up){
     snowIE_NS6();
 		if (hidesnowtime>0)
 		setTimeout("hidesnow()", hidesnowtime*1000)
+}
 // GiftRain.js in Project Storm by NeotiDev | https://github.com/NeotiDev/storm
